@@ -50,7 +50,7 @@ Make sure you have Python 3.8+ installed. All other dependencies are listed in `
 
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/credit-risk-analysis.git
+git clone https://github.com/tahir-A-ai/credit-risk-analysis.git
 cd credit-risk-analysis
 ```
 
